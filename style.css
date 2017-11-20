@@ -15,7 +15,9 @@ body {
     justify-content: center;
     min-height: 100vh;
     min-width: 700px;
-    background: rgba(0, 0, 255, 0.7);
+    /*background: rgba(112, 255, 10, 0.7);*/
+    background: url('./background.jpg') no-repeat center fixed;
+    background-size: cover;
 }
 
 .content:after {
